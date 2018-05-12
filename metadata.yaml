@@ -1,0 +1,33 @@
+_repo: Lecture-on-the-Aborigines-of-Newfoundland--13-Newfoundland-on-Monday-17th-January-1859_15126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Noad, Joseph
+    birthdate: 1823
+    deathdate: 1898
+    gutenberg_agent_id: '5868'
+    url: http://www.gutenberg.org/2009/agents/5868
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Anthropology
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Origin'
+- !lcsh 'Indians of North America -- Newfoundland and Labrador'
+- !lcc 'F1001'
+- !lcsh 'Newfoundland and Labrador -- History'
+- !lcsh 'Beothuk Indians'
+title: "Lecture on the Aborigines of Newfoundland\r\nDelivered Before the Mechanics'\
+  \ Institute, at St. John's,\r\nNewfoundland, on Monday, 17th January, 1859"
+url: http://www.gutenberg.org/ebooks/15126
