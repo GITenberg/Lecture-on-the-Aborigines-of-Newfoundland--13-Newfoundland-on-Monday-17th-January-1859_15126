@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5868'
     url: http://www.gutenberg.org/2009/agents/5868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15126#Lecture-on-the-Aborigines-of-Newfoundland--13-Newfoundland-on-Monday-17th-January-1859
 gutenberg_bookshelf:
 - Native America
 - Anthropology
